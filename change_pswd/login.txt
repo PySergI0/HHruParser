@@ -1,0 +1,8 @@
+login-astrakhan-nl@sms19.ru
+password-CF6_Y4osje
+
+DB
+passw = ASASasas111
+Name = root
+server_name = MySQL80
+port - 3306
