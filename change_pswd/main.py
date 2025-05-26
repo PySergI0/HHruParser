@@ -15,8 +15,8 @@ from utils import generate_pwd, solve_captcha
 
 url = "https://nizhny-tagil.hh.ru/employer/settings"
 
-login = "astrakhan-nl@sms19.ru"
-password = "jma-MCr-wXL-kL211"
+login = ""
+password = ""
 chrome_options = Options()
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument(
